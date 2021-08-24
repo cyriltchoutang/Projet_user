@@ -1,0 +1,6 @@
+{
+    "data": [{
+        "code": "1",
+        "message": "This message has "unescaped" quotes, which is a JSON syntax error."
+    }]
+}
